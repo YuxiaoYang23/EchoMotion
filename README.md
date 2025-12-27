@@ -24,16 +24,16 @@
 <!-- Author Information Section -->
 <p align="center">
   <!-- Authors -->
-  <a href="YOUR_YUXIAO_YANG_LINK">Yuxiao Yang</a><sup>1,2</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_HUALIAN_SHENG_LINK">Hualian Sheng</a><sup>2</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_SIJIA_CAI_LINK">Sijia Cai</a><sup>2,*</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_JING_LIN_LINK">Jing Lin</a><sup>3</sup>
+  <a href="https://yuxiaoyang23.github.io/">Yuxiao Yang</a><sup>1,2</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=73JaDUQAAAAJ&hl=zh-CN">Hualian Sheng</a><sup>2</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=LMVeRVAAAAAJ&hl=en">Sijia Cai</a><sup>2,*</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jinglin7.github.io/">Jing Lin</a><sup>3</sup>
   <br>
-  <a href="YOUR_JIAHAO_WANG_LINK">Jiahao Wang</a><sup>4</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_BING_DENG_LINK">Bing Deng</a><sup>2</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_JUNZHE_LU_LINK">Junzhe Lu</a><sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_HAOQIAN_WANG_LINK">Haoqian Wang</a><sup>1,†</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_JIEPING_YE_LINK">Jieping Ye</a><sup>2,†</sup>
+  <a href="https://scholar.google.com/citations?user=zQnTBEoAAAAJ&hl=en">Jiahao Wang</a><sup>4</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=VQp_ye4AAAAJ&hl=zh-CN">Bing Deng</a><sup>2</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=907PxdcAAAAJ&hl=en">Junzhe Lu</a><sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&view_op=list_works&sortby=pubdate">Haoqian Wang</a><sup>1,†</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en">Jieping Ye</a><sup>2,†</sup>
   <br><br>
   <!-- Affiliations -->
   <sup>1</sup>Tsinghua University&nbsp;&nbsp;&nbsp;&nbsp;
