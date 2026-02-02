@@ -22,6 +22,9 @@
   <a href="https://github.com/D2I-ai/EchoMotion/extract_motion.py">
     <img src="https://img.shields.io/badge/Dataset-Dataset-green?style=flat-square" alt="Dataset Pipe">
   </a>
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-green?style=flat-square" alt="License">
+  </a>
 </p>
 
 
