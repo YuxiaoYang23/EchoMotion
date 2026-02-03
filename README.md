@@ -19,7 +19,7 @@
   <a href="https://huggingface.co/Yuxiao319/EchoMotion">
     <img src="https://img.shields.io/badge/Models-HuggingFace-orange?style=flat-square" alt="Models">
   </a>
-  <a href="https://github.com/D2I-ai/EchoMotion/extract_motion.py">
+  <a href="https://github.com/D2I-ai/EchoMotion/blob/main/extract_motion.py">
     <img src="https://img.shields.io/badge/Dataset-Dataset-green?style=flat-square" alt="Dataset Pipe">
   </a>
   <a href="https://creativecommons.org/licenses/by-nc/4.0/">
